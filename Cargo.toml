@@ -10,5 +10,5 @@ edition = "2018"
 
 warp = "0.2"
 parking_lot = "0.10.0"
-serde = { version = "1.0", features = ["derive"] }
-tokio = { version = "0.2", features = ["macros"] }
+serde = "1.0"
+tokio = "0.2"
